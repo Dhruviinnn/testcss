@@ -6,7 +6,7 @@ body {
   height: 100vh;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-con: center;
 }
 
 .login-container {
@@ -48,4 +48,5 @@ body {
 #message {
   margin-top: 15px;
   font-size: 14px;
+
 }   
