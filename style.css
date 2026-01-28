@@ -10,7 +10,7 @@ body {
 }
 
 .login-container {
-  background: #fff;
+  background: #fff
   padding: 30px;
   width: 300px;
   border-radius: 8px;
@@ -50,3 +50,4 @@ body {
   font-size: 14px;
 
 }   
+
