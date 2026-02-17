@@ -8,7 +8,7 @@ import (
 func main() {
 
 	// ERROR 1 → unused variable (compile error)
-	name := "Dhruvin"
+	//name := "Dhruvin"
 
 	// ERROR 2 → unused import (compile error)
 	// fmt is used later but imagine if removed, this triggers
@@ -35,3 +35,4 @@ func main() {
 		fmt.Println(name)
 	}
 }
+
